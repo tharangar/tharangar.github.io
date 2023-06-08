@@ -1,5 +1,0 @@
-site_name: tharangar.github.io
-nav:
-    - Home: index.md
-#theme: windmill
-theme: readthedocs
