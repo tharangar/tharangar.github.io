@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to another page](./docs/sansara.html).
 
 There should be whitespace between paragraphs.
 
@@ -13,8 +13,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Four Norbal Truths
 
 Statements that cannot be false forever are referred to as "necessarily true" statements or "eternally true" statements. These are statements that are true in all possible circumstances or conditions and cannot be false under any circumstances.
-The main target of the buddhism is realize these four norbal thruths and he who realized these 4 truths completely is the one who achived Nirvan (enlightment).
-So the person wanted to realize it he has to start his journey by simple understanding these truth and with the belief of Buddhas words and he has to go in the path step by step as Buddha has prescribed.
+
+There are four eternally trues that exists which are called four norbal truths and main target of the buddhism is realize these four thruths and he who realized these 4 truths completely is the one who achived Nirvan (enlightment).
+So the person wanted to realize it he has to start his journey with simple understanding these truth and with the belief of Buddhas words and he has to go in the path step by step as Buddha has prescribed and person who follows will realize each of these truths instead of simple understanding of them.
 
 1. Sarrow
 2. Couases for the Sarrow.
