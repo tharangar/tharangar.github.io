@@ -10,9 +10,16 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Four Norbal Truths
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Statements that cannot be false forever are referred to as "necessarily true" statements or "eternally true" statements. These are statements that are true in all possible circumstances or conditions and cannot be false under any circumstances.
+The main target of the buddhism is realize these four norbal thruths and he who realized these 4 truths completely is the one who achived Nirvan (enlightment).
+So the person wanted to realize it he has to start his journey by simple understanding these truth and with the belief of Buddhas words and he has to go in the path step by step as Buddha has prescribed.
+
+1. Sarrow
+2. Couases for the Sarrow.
+3. Elemination of Sarrow
+4. Path to Elemination of Sarrow.
 
 ## Header 2
 
