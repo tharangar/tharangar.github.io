@@ -4,3 +4,4 @@ description: Core Buddhist Theories and path to nirvana.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+site.github.owner_url: https://github.com/tharangar/tharangar.github.io.git
