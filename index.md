@@ -2,13 +2,18 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Existance of Life according to Buddhism
+
+According to the concept of samsara, individuals are bound to this cycle of existence and undergo repeated cycles of birth, life, death, and subsequent rebirth. The specific circumstances of each rebirth are determined by the accumulated actions, known as karma, from previous lives.
+
+Samsara is often characterized by suffering, dissatisfaction, and the perpetual cycle of desire and attachment. The ultimate goal for many spiritual traditions is to break free from this cycle and attain liberation or enlightenment, which is considered a state of liberation from suffering and the end of the cycle of samsara.
+
+In Buddhism, for example, achieving liberation from samsara is sought through the realization of the Four Noble Truths and following the Noble Eightfold Path. By eliminating ignorance, craving, and attachment, individuals can attain enlightenment (nirvana) and escape the cycle of samsara.
+
 
 [Samsara and Nirwana (Our existance)](./docs/sansara.html).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Four Norbal Truths
 
