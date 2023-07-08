@@ -27,34 +27,21 @@ So the person wanted to realize it he has to start his journey with simple under
 3. Elemination of Sarrow
 4. Path to Elemination of Sarrow.
 
-## Header 2
+## Patichchasamuppada
 
-> This is a blockquote following a header.
+> Patichchasamuppadaya is the way buddism describe the all living being existance.
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> Someone who reqlized the patichchasamuppadaya is said to be who attained Nirwana.
 
-### Header 3
+### Nirwana
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Nirwana is the hightest that can be achived as a living being. But it is not an physically existing place.
+Nirwana is just you cancelling your eternal existance called Sansara.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
-#### Header 4
+### Sansara
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+According to budism 
 
 ##### Header 5
 
