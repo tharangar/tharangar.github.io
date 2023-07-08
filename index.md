@@ -33,6 +33,29 @@ So the person wanted to realize it he has to start his journey with simple under
 >
 > Someone who reqlized the patichchasamuppadaya is said to be who attained Nirwana.
 
+In Buddhism, "paṭiccasamuppāda" (Pali) or "pratītyasamutpāda" (Sanskrit) refers to the concept of dependent origination or dependent arising. It is one of the key teachings of the Buddha and is often described as the process of causality or interconnectedness of phenomena.
+
+According to the teaching of paṭiccasamuppāda, all things and experiences arise dependent on multiple causes and conditions. It explains how suffering (dukkha) arises and how it can be overcome by understanding and breaking the chain of causation.
+
+The teaching of paṭiccasamuppāda is typically represented by a twelve-link chain of causation, known as the "Twelve Nidanas." These links describe the causal process that leads to the cycle of birth, aging, sickness, and death (samsara). The Twelve Nidanas are as follows:
+
+    Avijja (Lack of the knowledge of our existance mechanism)
+    Sanskhara (Attachment and dis attachment in mind for what we see as world.)
+    Vinyana (Energy form of mind)
+    Namarupa (eye, ears, nose, toung , body, mind)
+    Salayatana (the six sense bases from above mentioned Namarupa)
+    Phassa (Signals from each sense bases.)
+    Vedana (feeling created by signals from each sense.)
+    Tanha (Attachment for defferent vedana)
+    Upadana (Karmic energy induced by Tanha)
+    Bhava (Karmic energy create future life existance in Sansara )
+    Jati (Becouse Bhava being created once died in this life time next birth is to be happened.)
+    Jara-marana (aging and death becouse of birth in some where as human, thirisan, pretha, gods, brahma or hell)
+
+This chain of causation explains that ignorance (avijja) is the root cause of suffering, and by breaking the chain at the level of ignorance, one can attain liberation (nibbana) from the cycle of samsara.
+
+The teaching of paṭiccasamuppāda is considered fundamental in understanding the nature of reality and the interdependent nature of all phenomena. It highlights the importance of recognizing the impermanence and insubstantiality of all conditioned things and the need to cultivate wisdom and insight to transcend suffering.
+
 ### Nirwana
 
 Nirwana is the hightest that can be achived as a living being. But it is not an physically existing place.
