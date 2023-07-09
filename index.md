@@ -51,10 +51,10 @@ The teaching of paṭiccasamuppāda is typically represented by a twelve-link ch
    12. Jara-marana (aging and death becouse of birth in some where as human, thirisan, pretha, gods, brahma or hell)
 
 Each one is a producte of the previous couase.
-![Patichchasamuppadaya](images/patichchasamuppada.png?raw=true "Chain reaction called patichchasamuppadaya")
+![Patichchasamuppadaya](./images/patichchasamuppada.png?raw=true "Chain reaction called patichchasamuppadaya")
 ![Patichchasamuppadaya](patichchasamuppada.png?raw=true "Chain reaction called patichchasamuppadaya")
 
-![Patichchasamuppadaya image](images/patichchasamuppada.png)
+![Patichchasamuppadaya image](https://github.com/tharangar/tharangar.github.io/blob/master/docs/images/patichchasamuppada.png)
 This chain of causation explains that ignorance (avijja) is the root cause of suffering, and by breaking the chain at the level of ignorance, one can attain liberation (nibbana) from the cycle of samsara.
 
 The teaching of paṭiccasamuppāda is considered fundamental in understanding the nature of reality and the interdependent nature of all phenomena. It highlights the importance of recognizing the impermanence and insubstantiality of all conditioned things and the need to cultivate wisdom and insight to transcend suffering.
