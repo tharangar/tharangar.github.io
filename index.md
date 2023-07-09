@@ -1,6 +1,3 @@
----
-layout: default
----
 
 # Existance of Life according to Buddhism
 
@@ -39,32 +36,41 @@ According to the teaching of paṭiccasamuppāda, all things and experiences ari
 
 The teaching of paṭiccasamuppāda is typically represented by a twelve-link chain of causation, known as the "Twelve Nidanas." These links describe the causal process that leads to the cycle of birth, aging, sickness, and death (samsara). The Twelve Nidanas are as follows:
 
-    Avijja (Lack of the knowledge of our existance mechanism)
-    Sanskhara (Attachment and dis attachment in mind for what we see as world.)
-    Vinyana (Energy form of mind)
-    Namarupa (eye, ears, nose, toung , body, mind)
-    Salayatana (the six sense bases from above mentioned Namarupa)
-    Phassa (Signals from each sense bases.)
-    Vedana (feeling created by signals from each sense.)
-    Tanha (Attachment for defferent vedana)
-    Upadana (Karmic energy induced by Tanha)
-    Bhava (Karmic energy create future life existance in Sansara )
-    Jati (Becouse Bhava being created once died in this life time next birth is to be happened.)
-    Jara-marana (aging and death becouse of birth in some where as human, thirisan, pretha, gods, brahma or hell)
 
+   1. Avijja (Lack of the knowledge of our existance mechanism)
+   2. Sanskhara (Attachment and dis attachment in mind for what we see as world.)
+   3. Vinyana (Energy form of mind)
+   4. Namarupa (eye, ears, nose, toung , body, mind)
+   5. Salayatana (the six sense bases from above mentioned Namarupa)
+   6. Phassa (Signals from each sense bases.)
+   7. Vedana (feeling created by signals from each sense.)
+   8. Tanha (Attachment for defferent vedana)
+   9. Upadana (Karmic energy induced by Tanha)
+   10. Bhava (Karmic energy create future life existance in Sansara )
+   11. Jati (Becouse Bhava being created once died in this life time next birth is to be happened.)
+   12. Jara-marana (aging and death becouse of birth in some where as human, thirisan, pretha, gods, brahma or hell)
+
+Each one is a producte of the previous couase.
+
+
+![Patichchasamuppadaya image](images/patichchasamuppada.png)
 This chain of causation explains that ignorance (avijja) is the root cause of suffering, and by breaking the chain at the level of ignorance, one can attain liberation (nibbana) from the cycle of samsara.
 
 The teaching of paṭiccasamuppāda is considered fundamental in understanding the nature of reality and the interdependent nature of all phenomena. It highlights the importance of recognizing the impermanence and insubstantiality of all conditioned things and the need to cultivate wisdom and insight to transcend suffering.
+
+### Sansara
+
+According to budism above chain is repeating eternally. Buddha has vitnessed  that any one can't see the start and end end of sansara. 
+So it  is that much longer  we  think, The only way to hack the sansara and exit from your existance.
+According  to buddhism our existence is in this  life is just a one  bhava and it will be repeated forever untill we can exit from the sansara.
+
+
 
 ### Nirwana
 
 Nirwana is the hightest that can be achived as a living being. But it is not an physically existing place.
 Nirwana is just you cancelling your eternal existance called Sansara.
 
-
-### Sansara
-
-According to budism 
 
 ##### Header 5
 
@@ -81,66 +87,3 @@ According to budism
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```

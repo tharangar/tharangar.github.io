@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" modified="2023-07-09T16:31:57.903Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="7W-pm8ArXAi2Ee86iTcv" version="21.6.1">
+  <diagram name="Page-1" id="jv93xqowis85PmII0ITC">
+    <mxGraphModel dx="880" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="leaF__OEPE_4u4qdBmFT-1" value="Avidaya" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="39.33" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="leaF__OEPE_4u4qdBmFT-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="39.33" y="320" width="121.34" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="leaF__OEPE_4u4qdBmFT-5" value="Sanskara" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="60.67" y="230" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="leaF__OEPE_4u4qdBmFT-6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="110" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="leaF__OEPE_4u4qdBmFT-8" value="Vinyana" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="280" y="100" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="leaF__OEPE_4u4qdBmFT-9" value="Namarupa" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="450" y="100" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="leaF__OEPE_4u4qdBmFT-10" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=50;" vertex="1" parent="1">
+          <mxGeometry x="570.01" y="100" width="132.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="leaF__OEPE_4u4qdBmFT-13" value="Salayathana" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="680" y="200" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="leaF__OEPE_4u4qdBmFT-14" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=-240;" vertex="1" parent="1">
+          <mxGeometry x="660.63" y="550.66" width="160.67" height="53.91" as="geometry" />
+        </mxCell>
+        <mxCell id="leaF__OEPE_4u4qdBmFT-18" value="Passa" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="701.34" y="430" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="leaF__OEPE_4u4qdBmFT-19" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=135;" vertex="1" parent="1">
+          <mxGeometry x="680.0000000000001" y="300" width="121.34" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="leaF__OEPE_4u4qdBmFT-20" value="Vedana" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="659.33" y="660" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="leaF__OEPE_4u4qdBmFT-21" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=-210;" vertex="1" parent="1">
+          <mxGeometry x="648.6600000000001" y="750" width="121.34" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="leaF__OEPE_4u4qdBmFT-22" value="Tanha" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="559.33" y="850" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="leaF__OEPE_4u4qdBmFT-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=-195;" vertex="1" parent="1">
+          <mxGeometry x="537.9900000000001" y="930" width="121.34" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="leaF__OEPE_4u4qdBmFT-24" value="Upadana" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="430" y="990" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="leaF__OEPE_4u4qdBmFT-25" value="Bhava" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1000" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="leaF__OEPE_4u4qdBmFT-26" value="Jathi" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="870" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="leaF__OEPE_4u4qdBmFT-27" value="Jara / Marana" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="30" y="670" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="leaF__OEPE_4u4qdBmFT-28" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=-170;" vertex="1" parent="1">
+          <mxGeometry x="315.02" y="1047.81" width="148.26" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="leaF__OEPE_4u4qdBmFT-29" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=-120;" vertex="1" parent="1">
+          <mxGeometry x="90.00000000000011" y="950" width="121.34" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="leaF__OEPE_4u4qdBmFT-30" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="765" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="leaF__OEPE_4u4qdBmFT-31" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;rotation=-75;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="555" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="leaF__OEPE_4u4qdBmFT-32" value="Patichchasamuppadaya" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="230" y="520" width="330" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
