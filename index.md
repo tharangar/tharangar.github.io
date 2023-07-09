@@ -52,6 +52,7 @@ The teaching of paṭiccasamuppāda is typically represented by a twelve-link ch
 
 Each one is a producte of the previous couase.
 ![Patichchasamuppadaya](/images/patichchasamuppada.png?raw=true "Chain reaction called patichchasamuppadaya")
+![Patichchasamuppadaya](./images/patichchasamuppada.png?raw=true "Chain reaction called patichchasamuppadaya")
 
 ![Patichchasamuppadaya image](images/patichchasamuppada.png)
 This chain of causation explains that ignorance (avijja) is the root cause of suffering, and by breaking the chain at the level of ignorance, one can attain liberation (nibbana) from the cycle of samsara.
