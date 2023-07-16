@@ -88,25 +88,37 @@ So it  is that much longer  we  think, The only way to hack the sansara and exit
 According  to buddhism our existence is in this  life is just a one  bhava and it will be repeated forever untill we can exit from the sansara.
 
 
-
+The Truth of the Cessation of Suffering (Nirodha) is described as Nirwana.
 ### Nirwana
 
 Nirwana is the hightest that can be achived as a living being. But it is not an physically existing place.
 Nirwana is just you cancelling your eternal existance called Sansara.
 
 
-##### Header 5
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+The Truth of the Path to the Cessation of Suffering (Magga).
+The last truth shows the path to Nirwana or distruction of the existnace by eightfold path.
+### Eightfold path.
 
-###### Header 6
+The Noble Eightfold Path is a central teaching in Buddhism and is considered the path to the cessation of suffering and the realization of enlightenment. It consists of eight interconnected practices or steps that guide individuals towards liberation. Here are the components of the Noble Eightfold Path:
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+1. Right Understanding (Samma Ditthi): Developing a correct understanding of the nature of reality, including the Four Noble Truths, the law of cause and effect (karma), and the impermanence of all phenomena.
+2. Right Intention (Samma Sankappa): Cultivating wholesome intentions and attitudes, such as renunciation, goodwill, and compassion, while letting go of harmful thoughts or desires.
+3. Right Speech (Samma Vaca): Engaging in truthful, kind, and beneficial speech, avoiding lying, divisive speech, harsh language, and idle gossip.
+4. Right Action (Samma Kammanta): Acting in ways that are ethical and non-harming, abstaining from killing, stealing, and sexual misconduct.
+5. Right Livelihood (Samma Ajiva): Choosing a livelihood that is honorable, honest, and does not cause harm to oneself or others. This involves avoiding occupations related to weapons, intoxicants, and other harmful activities.
+6. Right Effort (Samma Vayama): Making a diligent and sustained effort to cultivate wholesome qualities, abandon unwholesome states, and maintain a balanced state of mind.
+7. Right Mindfulness (Samma Sati): Developing mindful awareness of one's body, feelings, mind, and phenomena in the present moment. It involves observing experiences without attachment or aversion.
+8. Right Concentration (Samma Samadhi): Cultivating focused and concentrated states of mind through meditation practices. This includes developing deep levels of concentration and insight, leading to a unified and tranquil state of mind.
 
+The Noble Eightfold Path is an integrated system, and each component supports and reinforces the others. By following this path, individuals gradually cultivate wisdom, ethical conduct, and mental discipline, leading to the ultimate goal of liberation from suffering and the realization of enlightenment.
+
+The First step is Samma Ditti which is right understnading.
+This first step is must to understand correctly.
+
+Ditti ashrawa, kama Ashrawa, Bawa Ashrawa, Avidya Ashrawa.
+are the reason for Dukka and get to know that is the Samma Ditti.
+
+If you dont know that it is mithya ditti.
+all of those ashrawa are born by Avidaya and Avidaya is born by ashrawa.
+Avidya and Ashrwa depends on each other.
