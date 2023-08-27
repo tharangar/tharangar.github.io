@@ -32,7 +32,10 @@ Then each 4 norbal truth further described.
 Sarrow descibe as follows.
 Sankiththena pancha updanas kanda dukka.
 
-Pancha Upadanaskanda.
+Panchaupadanskanda.
+
+[Panchaupdanskanda (dukka in summary)](./docs/panchaupadanskanda.md).
+
  1. eye
  2. years
  3. nose
